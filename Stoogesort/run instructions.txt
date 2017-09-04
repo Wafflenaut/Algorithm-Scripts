@@ -1,0 +1,5 @@
+#RUN AS:
+
+python3 stoogesort.py
+
+#REQUIRES data.txt in the same folder
